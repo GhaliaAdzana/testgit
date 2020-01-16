@@ -3,7 +3,7 @@
 <section class="std-content">
 	<div class="wrapper">
 		<ul>
-			<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam laborum dolorum perspiciatis nihil ipsa eos, tenetur, aperiam dolores, ducimus eius debitis harum minus porro ipsam, unde inventore quia. Libero, molestiae.</li>
+			<li>Lorasdasde.</li>
 			<li>Earum minima perferendis, aut ut quidem sequi cumque autem recusandae temporibus facilis molestiae perspiciatis excepturi obcaecati sunt accusamus explicabo reiciendis nesciunt neque ea maxime numquam unde libero. Dolores, id porro.</li>
 			<li>Cupiditate possimus iusto, modi neque! Distinctio ipsa aspernatur, error exercitationem nam et debitis iure, nisi voluptas recusandae blanditiis, rem libero! Sed esse at rem sequi, modi excepturi corporis porro magnam.</li>
 			<li>Suscipit, hic aut quibusdam dicta maiores similique ea eius, iusto quo et itaque esse nobis illo! Nesciunt voluptatum harum quis natus repellat officia et, provident eligendi voluptates soluta, ad ipsam.</li>
